@@ -1,0 +1,41 @@
+html,
+body {
+  background-color: bisque;
+  width: 50%;
+  margin: 0 auto;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+  font-size: 2rem;
+}
+
+.containor {
+  width: 360px;
+}
+
+#InputField {
+  width: 300px;
+  height: 40px;
+  border: 2px solid black;
+  outline: none;
+  font-size: 25px;
+  vertical-align: middle;
+}
+
+#addToDo {
+  width: 45px;
+  height: 45px;
+  border: 2px solid black;
+  vertical-align: middle;
+  font-size: 30px;
+}
+
+#todocontainor {
+  margin-top: 0px;
+}
+
+.paragram-styling {
+  cursor: pointer;
+  font-size: 20px;
+}
