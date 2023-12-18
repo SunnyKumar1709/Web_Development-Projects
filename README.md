@@ -1,4 +1,4 @@
-This is a 'Guessing game' Project.
+## 'Guessing game' Project - .
 
 Skils Applied = JavaScript, Html, Css
 
